@@ -15,8 +15,6 @@ Install Keras from [here](https://keras.io/) and Tensorflow from [here](https://
 
 Run this using [jupyter notebook](http://jupyter.readthedocs.io/en/latest/install.html). Just type `jupyter notebook` in the main directory and the code will pop up in a browser window. 
 
-#Coding Challenge - Due Date, Thursday, March 2nd 2017 at 12 PM PST
-
 Use the price history AND two other metrics of your choice to predict the price of GOOGL stock with an LSTM network. You can find the CSV [here](https://www.google.com/finance/historical?q=NASDAQ%3AGOOGL&ei=Xu6wWKnDAcS1jAGX6a-ACg). Metrics could be sentiment analysis from Twitter of what people have said about Google, dividends, etc. 
 
 ##Result
